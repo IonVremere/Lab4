@@ -38,7 +38,7 @@ _Consultant_ - Popovici Nicolare
 
 6.CodeAcademy
 
-
+**Limbaje de programare folosite :**
 
 
 
