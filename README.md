@@ -51,9 +51,9 @@ _Consultant_ - Popovici Nicolare
 
 2.Yii(PHP)
 
-3. Angular(JavaScript)
+3.Angular(JavaScript)
 
-4. React(JavaScript)
+4.React(JavaScript)
 
 
 
