@@ -46,9 +46,13 @@ _Consultant_ - Popovici Nicolare
 4. Java
 
 **Framework-uri:**
+
 1.Laravel (PHP)
+
 2.Yii(PHP)
+
 3. Angular(JavaScript)
+
 4. React(JavaScript)
 
 
