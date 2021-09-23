@@ -26,6 +26,19 @@ _Consultant_ - Popovici Nicolare
 
 **Resursele folosite:**
 
-1.
+1.Stackoverflow
+
+2.Github
+
+3.Medium
+
+4.Hacker News
+
+5.FreeCodeCamp.org
+
+6.CodeAcademy
+
+
+
 
 
