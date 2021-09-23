@@ -40,5 +40,16 @@ _Consultant_ - Popovici Nicolare
 
 **Limbaje de programare folosite :**
 
+1. HTML & CSS
+2. JavaScript
+3. PHP
+4. Java
+
+**Framework-uri:**
+1.Laravel (PHP)
+2.Yii(PHP)
+3. Angular(JavaScript)
+4. React(JavaScript)
+
 
 
